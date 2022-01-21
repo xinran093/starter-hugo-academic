@@ -1,17 +1,9 @@
 ---
-title: "Reading and connecting: Using social annotation in online classes Authors"
+title: "Reading and connecting: Using social annotation in online classes"
 publication_types:
   - "2"
 authors:
-  - Zhu
-  - X.
-  - Chen
-  - B.
-  - Avadhanam
-  - R.M.
-  - Shui
-  - H. and Zhang
-  - R.Z.
+  - admin
 doi: https://doi.org/10.1108/ILS-04-2020-0117
 publication: Information and Learning Sciences, Vol. 121 No. 5/6, pp. 261-271.
 abstract: >-
