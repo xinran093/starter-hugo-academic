@@ -9,7 +9,7 @@ authors:
   - Hong Shui
   - Raymond Zhuo Zhang
 doi: https://doi.org/10.1108/ILS-04-2020-0117
-publication: Information and Learning Sciences, Vol. 121 No. 5/6, pp. 261-271.
+publication: Information and Learning Sciences, Vol. 121 No. 5/6, pp. 261-271
 abstract: >+
   Purpose
 
