@@ -3,12 +3,17 @@ title: "Reading and connecting: Using social annotation in online classes Author
 publication_types:
   - "2"
 authors:
-  - Xinran Zhu
-  - Bodong Chen
-  - Rukmini Manasa Avadhanam
-  - Hong Shui
-  - Raymond Zhuo Zhang
+  - Zhu
+  - X.
+  - Chen
+  - B.
+  - Avadhanam
+  - R.M.
+  - Shui
+  - H. and Zhang
+  - R.Z. (2020)
 doi: https://doi.org/10.1108/ILS-04-2020-0117
+publication: Information and Learning Sciences, Vol. 121 No. 5/6, pp. 261-271.
 draft: false
 featured: false
 image:
