@@ -25,7 +25,7 @@ experience:
   - title: Instructional Designer
     company: College of Design, University of Minnesota
     company_url: ''
-    company_logo: org-d
+  #  company_logo: org-d
     location: Minneapolis
     date_start: '2019-09-01'
     date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: Research Assistant
     company: Learning Informatics Lab, University of Minnesota
     company_url: 'https://innovation.umn.edu/informatics/'
-    company_logo: org-li
+   # company_logo: org-li
     location: Minneapolis
     date_start: '2020-09-01'
     date_end: ''
