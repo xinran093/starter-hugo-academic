@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD student in Learning Technologies
     institution: University of Minnesota - Twin Cities
-    year: 2024 (expected)
+    year: 2024
   - course: MA in Educational Psychology
     institution: University of Connecticut
     year: 2018
