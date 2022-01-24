@@ -1,14 +1,14 @@
 ---
 title: Designing Support for Productive Social Interaction and Knowledge
-  Co-Construction in Collaborative Annotation (**Best Student Paper Award**)
+  Co-Construction in Collaborative Annotation 
 publication_types:
   - "1"
 authors:
   - admin
   - Hong Shui
   - Bodong Chen
-publication: Proceedings of the 29th International Conference on Computers in
-  Education. Asia-Pacific Society for Computers in Education.
+publication: (**Best Student Paper Award**) Proceedings of the 29th International Conference on Computers in
+  Education. Asia-Pacific Society for Computers in Education
 
 # links:
 #  - icon_pack: fab

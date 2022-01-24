@@ -9,8 +9,8 @@ authors:
 #doi: 10.1145/3506860.3506893
 
 links:
-  - icon_pack: fab
-    icon: researchgate
+  - #icon_pack: fab
+    #icon: researchgate
     name: Link
     url: 'https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis'
 
