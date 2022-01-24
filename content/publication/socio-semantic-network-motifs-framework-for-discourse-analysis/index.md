@@ -6,13 +6,12 @@ authors:
   - Bodong Chen
   - Admin
   - Hong Shui
-doi: 10.1145/3506860.3506893
-url_source: "https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis"
+#doi: 10.1145/3506860.3506893
 
 links:
   - icon_pack: fab
     icon: researchgate
-    name: Full-text
+    name: Link
     url: 'https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis'
 
 publication: "In LAK22: 12th International Learning Analytics and Knowledge
