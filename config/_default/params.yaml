@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Minimal
+theme: Earth
 day_night: true
 font-family: system-ui,-apple-system,BlinkMacSystemFont,PingFang SC,Microsoft YaHei UI,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 font_size: s

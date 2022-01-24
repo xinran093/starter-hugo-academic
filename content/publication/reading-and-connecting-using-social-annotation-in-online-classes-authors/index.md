@@ -13,7 +13,7 @@ doi: https://doi.org/10.1108/ILS-04-2020-0117
 links:
   - #icon_pack: fab
     #icon: researchgate
-    name: Link
+    name: Full-text
     url: 'https://www.researchgate.net/publication/342450057_Reading_and_connecting_using_social_annotation_in_online_classes'
 
 publication: Information and Learning Sciences, Vol. 121 No. 5/6, pp. 261-271

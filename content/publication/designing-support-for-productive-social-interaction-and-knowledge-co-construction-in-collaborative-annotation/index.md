@@ -15,7 +15,9 @@ publication: (**Best Student Paper Award**) Proceedings of the 29th Internationa
 #    icon: researchgate
 #    name: Link
 #    url: 'https://www.researchgate.net/publication/342450057_Reading_and_connecting_using_social_annotation_in_online_classes'
- 
+abstract:
+  This paper introduces a generic scaffolding framework of participation roles that was co-designed by instructors and researchers to support collaborative learning activities in online classes. Informed by the CSCL literature, the framework specifies three participation roles–facilitator, synthesizer, and summarizer–that play distinct roles in each week’s collaborative activities. Using a web annotation tool named Hypothes. is, we piloted the framework in a fully online undergraduate course in Fall 2020. To examine how the framework facilitated social interaction and knowledge co-construction in the class, we conducted social network analysis and content analysis on students’ annotation data generated from their engagement with 18 readings. Results indicated the participation roles were enacted properly to a great extent and knowledge co-construction was facilitated when role-takers made high-level contributions. This study has practical implications for online teaching and collaborative learning.
+
 draft: false
 featured: false
 image:

@@ -11,7 +11,7 @@ authors:
 links:
   - #icon_pack: fab
     #icon: researchgate
-    name: Link
+    name: Full-text
     url: 'https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis'
 
 publication: "In LAK22: 12th International Learning Analytics and Knowledge
