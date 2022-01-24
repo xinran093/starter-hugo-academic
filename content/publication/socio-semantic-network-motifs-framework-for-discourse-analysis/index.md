@@ -9,6 +9,11 @@ authors:
 doi: 10.1145/3506860.3506893
 url_source: "https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis"
 
+links:
+  - icon_pack: fab
+    icon: researchgate
+    name: Full-text
+    url: 'https://www.researchgate.net/publication/357573324_Socio-Semantic_Network_Motifs_Framework_for_Discourse_Analysis'
 
 publication: "In LAK22: 12th International Learning Analytics and Knowledge
   Conference (LAK22), March 21–25, 2022"
