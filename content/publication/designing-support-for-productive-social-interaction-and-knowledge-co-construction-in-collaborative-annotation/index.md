@@ -16,9 +16,7 @@ links:
     name: Project-page
     url: 'https://learningfutures.github.io/projects/collaborative-annotation.html'
     
-links:
-    name: Slides
-    url: 'https://learningfutures.github.io/file/ICCE2021-Zhu.pdf'
+url_project: 'https://learningfutures.github.io/file/ICCE2021-Zhu.pdf'
 
 # links:
 #  - icon_pack: fab
