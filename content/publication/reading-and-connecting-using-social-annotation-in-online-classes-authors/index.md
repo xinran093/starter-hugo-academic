@@ -38,7 +38,7 @@ abstract: >+
   This study provides a timely response to online/distance teaching under the COVID-19 pandemic. It is a hope that these identified application areas, in combination with four practical recommendations, would provide pragmatic and evidence-based support for educators to engage learners in reading, learning and connecting.
 
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
