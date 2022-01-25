@@ -13,10 +13,10 @@ publication: (**Best Student Paper Award**) Proceedings of the 29th Internationa
 links:
   - #icon_pack: fab
     #icon: researchgate
-    name: Project-page
-    url: 'https://learningfutures.github.io/projects/collaborative-annotation.html'
+    name: Slides
+    url: 'https://learningfutures.github.io/file/ICCE2021-Zhu.pdf'
     
-url_project: 'https://learningfutures.github.io/file/ICCE2021-Zhu.pdf'
+url_project: 'https://learningfutures.github.io/projects/collaborative-annotation.html'
 
 # links:
 #  - icon_pack: fab
