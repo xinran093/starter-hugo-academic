@@ -70,9 +70,13 @@ email: ""
 highlight_name: true
 ---
 
-Welcome! My name is Xinran Zhu (朱欣然 in Chinese). I'm a Ph.D. student in Learning Technologies at the University of Minnesota. 
+Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. student in Learning Technologies at the University of Minnesota. 
 
-My research interests include computer-supported collaborative learning, learning analytics, network analysis, and design based research. I'm also investigating the ways in which big data informs pedagogical decisions in terms of techniques and ethics.
+My research interests include computer-supported collaborative learning, learning analytics, and design-based research. I'm also investigating the ways in which big data informs pedagogical decisions through technology innovations. Currently I'm working on a project that aims to support college students' social reading in digital spaces by collaborating with instructors and designing a web application to support knowledge synthesis.
+
+I believe learning is the process of making interactions - the interaction between you and me, the interaction between humans and technologies, the interaction between humans and the world. The key is HUMAN. This is the belief that drives my interest in discovering how we learn with technologies, and how technology is changing how we learn. 
+
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
