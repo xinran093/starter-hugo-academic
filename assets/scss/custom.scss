@@ -11,3 +11,9 @@
 .h1 {
     font-size: 1 rem;
 }
+
+a, h3.article-title a:hover {
+    color: #d215b2;
+    text-decoration: none;
+    transition: color .6s ease;
+}
