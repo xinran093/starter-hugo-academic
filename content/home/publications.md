@@ -38,7 +38,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["30px", "0", "20px", "0"]
 ---
-
+<!--
 {{% callout note %}}
 [Filtering publications](./publication/).
 {{% /callout %}}
+-->
