@@ -13,7 +13,30 @@
 }
 
 a, h3.article-title a:hover {
-    color: #d215b2;
+    color: #454545;
     text-decoration: none;
     transition: color .6s ease;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: 700!important;
+    color: #454545!important;
+}
+
+.experience .m-2 .border.exp-fill {
+    background-color: #454545!important;
+}
+.experience .m-2 .border, .experience .col.border-right {
+    border-color: #454545!important;
+}
+
+.btn-outline-primary {
+    color: #454545;
+    border-color: #454545;
+}
+
+a {
+    color: #454545;
+    text-decoration: none;
+    background-color: transparent;
 }
