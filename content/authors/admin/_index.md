@@ -18,10 +18,10 @@ bio: Learning Analyst | Designer | Researcher
 
 # Interests to show in About widget
 interests:
-- Technology Innovation for Learning & Teaching
+- Online Education
 - Learning Sciences 
 - Learning Analytics
-- Network Analysis
+- Technology Innovation for Learning & Teaching
 
 # Education to show in About widget
 education:
