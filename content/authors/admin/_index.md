@@ -79,4 +79,6 @@ I believe learning is the process of making interactions - the interaction betwe
 
 
 
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
