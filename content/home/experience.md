@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 
-subtitle: Experience
+title: Experience
+subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -56,4 +56,6 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["30px", "0", "20px", "0"]
+  h1: 
+    font-size: 10 px
 ---
