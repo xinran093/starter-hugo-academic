@@ -36,7 +36,7 @@ Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. student in
 
 My research interests include computer-supported collaborative learning, learning analytics, and design-based research. I'm also investigating the ways in which big data informs pedagogical decisions through technology innovations. Currently I'm working on a project that aims to support college students' collaborative knowledge construction in social reading activities through a design of a Web application. I'm committed to answer the questions such as: *What is the mechanism of the knowledge construction discourse in digital spaces?* *How do learners navigate, connect, and generate ideas during the process of social reading and writing? How can we support social reading for higher-order competencies?*  
 
-I believe learning is the process of making interactions - the interaction between you and me, the interaction between humans and technologies, the interaction between humans and the world. The key is HUMAN. This is the belief that drives my interest in discovering how we learn with technologies, and how technology is changing how we learn. 
+I believe learning happens through interactions - the interaction between you and me, the interaction between humans and technologies, the interaction between humans and the world. The key is HUMAN. This is the belief that drives my interest in discovering how we learn with technologies, and how technology is changing how we learn. 
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
