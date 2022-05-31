@@ -32,7 +32,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. student in Learning Technologies at the University of Minnesota. 
+Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. candidate in Learning Technologies at the University of Minnesota. 
 
 My research interests include computer-supported collaborative learning, learning analytics, and design-based research. I'm also investigating the ways in which big data informs pedagogical decisions through technology innovations. Currently I'm working on a project that aims to support college students' collaborative knowledge construction in social reading activities through a design of a Web application. I'm committed to answer the questions such as: *What is the mechanism of the knowledge construction discourse in digital spaces?* *How do learners navigate, connect, and generate ideas during the process of social reading and writing? How can we support social reading for higher-order competencies?*  
 
