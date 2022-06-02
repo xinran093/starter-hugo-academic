@@ -20,6 +20,8 @@ social:
 organizations:
   - name: University of Minnesota
     url: https://lt.umn.edu/
+  - url: https://innovation.umn.edu/informatics/
+    name: Learning Informatics Lab
 education:
   courses:
     - course: PhD student in Learning Technologies
