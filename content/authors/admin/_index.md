@@ -18,10 +18,10 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=WWRwejsAAAAJ&hl=en
 organizations:
-  - name: University of Minnesota
-    url: https://lt.umn.edu/
   - url: https://innovation.umn.edu/informatics/
     name: Learning Informatics Lab
+  - name: University of Minnesota
+    url: https://lt.umn.edu/
 education:
   courses:
     - course: PhD student in Learning Technologies
