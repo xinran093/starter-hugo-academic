@@ -18,10 +18,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=WWRwejsAAAAJ&hl=en
 organizations:
-  - url: https://innovation.umn.edu/informatics/
-    name: Learning Informatics Lab
-  - name: University of Minnesota
-    url: https://lt.umn.edu/
+  - name: "@PennGSE"
+    url: https://www.gse.upenn.edu/academics/programs/learning-sciences-technology-phd
 education:
   courses:
     - course: PhD student in Learning Technologies
