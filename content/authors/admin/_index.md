@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=WWRwejsAAAAJ&hl=en
 organizations:
-  - name: "@PennGSE"
+  - name: University of Pennsylvania - GSE
     url: https://www.gse.upenn.edu/academics/programs/learning-sciences-technology-phd
 education:
   courses:
