@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: PhD student in Learning Technologies
-      institution: University of Minnesota - Twin Cities
+      institution: University of Pennsylvania
       year: 2024
     - course: MA in Educational Psychology
       institution: University of Connecticut
