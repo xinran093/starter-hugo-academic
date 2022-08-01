@@ -22,7 +22,7 @@ organizations:
     url: https://www.gse.upenn.edu/academics/programs/learning-sciences-technology-phd
 education:
   courses:
-    - course: PhD student in Learning Technologies
+    - course: PhD candidate in Learning Sciences and Technologies
       institution: University of Pennsylvania
       year: 2024
     - course: MA in Educational Psychology
