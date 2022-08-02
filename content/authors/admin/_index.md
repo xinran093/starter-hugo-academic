@@ -1,6 +1,6 @@
 ---
 title: Xinran Zhu
-role: Ph.D. student in Learning Technology
+role: Ph.D. student in Learning Sciences and Technologies
 bio: Learning Analyst | Designer | Researcher
 interests:
   - Online Education
