@@ -34,15 +34,13 @@ highlight_name: true
 ---
 Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. candidate in Learning Sciences and Technologies at University of Pennsylvania. 
 
-Broadly, my interests lie at the intersection of Computer-Supported Collaborative Learning (CSCL) and Learning Analytics (or "Collaborative Learning Analytics"). My research agenda is centered around this question: **How do human learn in collaborative settings, especially in digital spaces?**
+Broadly, my interests lie at the intersection of Computer-Supported Collaborative Learning (CSCL) and Learning Analytics (or "Collaborative Learning Analytics"). My research agenda is centered around this question: **How do human learn in collaborative settings supported by technologies?**
 
 T﻿his question has led my current work along two paths:
 
-1﻿. Guided by design-based research, I **design** technological and pedagogical innovations to support collaborative knowledge construction in classrooms. 
+1﻿. I design and evaluate a [technology innovation](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_FvDjshmg4-vIWX36PpxuA0w/edit) to support students’ knowledge synthesis processes in collaborative learning. (Design update: need a cool name for it!!)
 
-2﻿. I **model** collaborative learning in consideration of social and semantic dimensions.
-
-I believe learning happens through interactions - the interaction between you and me, the interaction between humans and technologies, the interaction between humans and the world. The key is HUMAN. This is the belief that drives my interest in discovering how we learn with technologies, and how technology is changing how we learn. 
+2﻿. I develop analytical frameworks to model socio-cognitive engagement in collaborative learning by combining network sciences and Natural Language Processing techniques.
 
 I love 🚗 roadtrips, 📷 photography, and  🎈adventures.
 
