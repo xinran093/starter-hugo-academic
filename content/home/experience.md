@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Penn Wonder Lab, University of Pennsylvania 
+    company_url: 'https://penn-wonderlab.github.io/'
+   # company_logo: org-li
+    location: Philadelphia
+    date_start: '2022-09-01'
+    date_end: ''
+    
   - title: Instructional Designer
     company: College of Design, University of Minnesota
     company_url: ''
   #  company_logo: org-d
     location: Minneapolis
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-09-01'
     #description: |2-
      #   Responsibilities include:
         
@@ -36,7 +44,6 @@ experience:
      #   * Developing online courses  
      #   * Providing administrative and technology support
      #   * Facilitating cross-departmental collaborations
-
         
   - title: Research Assistant
     company: Learning Informatics Lab, University of Minnesota
@@ -44,13 +51,14 @@ experience:
    # company_logo: org-li
     location: Minneapolis
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-09-01'
   #  description: |2-
   #      Responsibilities include:
   #      
   #      * Leading a research project aiming to support online collaborative social reading
   #      * Leading a technology innovation project   
 
+  
 design:
   columns: '2'
   spacing:
