@@ -38,12 +38,11 @@ experience:
     date_start: '2019-09-01'
     date_end: '2022-09-01'
     #description: |2-
-     #   Responsibilities include:
+    Responsibilities include:
         
-     #   * Involving in the online learning initiatives
-     #   * Developing online courses  
-     #   * Providing administrative and technology support
-     #   * Facilitating cross-departmental collaborations
+      * Supported faculty to design and maintain effective online learning experiences on various platforms
+      * Involved in the college’s online learning initiatives including designing a new degree program on Coursera ([UX Design](https://www.coursera.org/mastertrack/ux-design-minnesota))  
+      * Facilitated the partnership with Coursera and multiple departments across the University
         
   - title: Research Assistant
     company: Learning Informatics Lab, University of Minnesota
