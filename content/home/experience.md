@@ -32,7 +32,7 @@ experience:
     
   - title: Instructional Designer
     company: UX Design, College of Design, University of Minnesota
-    company_url: ''
+    company_url: 'https://www.coursera.org/mastertrack/ux-design-minnesota'
   #  company_logo: org-d
     location: Minneapolis
     date_start: '2019-09-01'
