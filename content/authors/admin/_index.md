@@ -3,10 +3,10 @@ title: Xinran Zhu
 role: Ph.D. Candidate in Learning Sciences and Technologies
 bio: Learning Analyst | Designer | Researcher
 interests:
-  - Online Education
   - Learning Sciences
   - Learning Analytics
-  - Technology Innovation for Learning & Teaching
+  - Human-Computer Interaction
+  - Learning Technologies Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,7 +38,7 @@ Broadly, my interests lie at the intersection of Computer-Supported Collaborativ
 
 T﻿his question has led my current work along two paths:
 
-1﻿. I design and evaluate a [technology innovation](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_FvDjshmg4-vIWX36PpxuA0w/edit) to support students’ knowledge synthesis processes in collaborative learning. (Design update: need a cool name for it!!)
+1﻿. I design, prototype, and evaluate a [technology innovation](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_FvDjshmg4-vIWX36PpxuA0w/edit) to support students’ knowledge synthesis processes in collaborative learning. (Design update: need a cool name for it!!)
 
 2﻿. I develop analytical frameworks to model socio-cognitive engagement in collaborative learning by combining network sciences and Natural Language Processing techniques.
 
