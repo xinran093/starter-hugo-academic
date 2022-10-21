@@ -31,7 +31,7 @@ experience:
     date_end: ''
     
   - title: Instructional Designer
-    company: College of Design, University of Minnesota
+    company: UX Design, College of Design, University of Minnesota
     company_url: ''
   #  company_logo: org-d
     location: Minneapolis
@@ -39,10 +39,10 @@ experience:
     date_end: '2022-09-01'
     #description: |2-
     Responsibilities include:
-        
-      * Supported faculty to design and maintain effective online learning experiences on various platforms
-      * Involved in the college’s online learning initiatives including designing a new degree program on Coursera ([UX Design](https://www.coursera.org/mastertrack/ux-design-minnesota))  
-      * Facilitated the partnership with Coursera and multiple departments across the University
+    #    
+     # * Supported faculty to design and maintain effective online learning experiences on various platforms
+      #* Involved in the college’s online learning initiatives including designing a new degree program on Coursera ([UX Design](https://www.coursera.org/mastertrack/ux-design-minnesota))  
+      #* Facilitated the partnership with Coursera and multiple departments across the University
         
   - title: Research Assistant
     company: Learning Informatics Lab, University of Minnesota
