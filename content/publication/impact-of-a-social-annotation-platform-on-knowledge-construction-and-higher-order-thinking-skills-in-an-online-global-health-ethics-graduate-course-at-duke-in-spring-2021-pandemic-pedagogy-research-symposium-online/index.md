@@ -1,7 +1,7 @@
 ---
-title: Impact of a Social Annotation Platform on Knowledge Construction and
+title: "Impact of a Social Annotation Platform on Knowledge Construction and
   Higher-Order Thinking Skills in an Online Global Health Ethics Graduate Course
-  at Duke in Spring 2021. Pandemic Pedagogy Research Symposium, Online.
+  at Duke in Spring 2021. "
 publication_types:
   - "0"
 authors:
@@ -10,6 +10,7 @@ authors:
   - admin
   - Hong Shui
   - Bodong Chen
+publication: Pandemic Pedagogy Research Symposium, Online.
 draft: false
 featured: false
 image:
