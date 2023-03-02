@@ -32,7 +32,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Welcome! My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. candidate in Learning Sciences and Technologies at University of Pennsylvania. I am a learning **designer** and **researcher** who develop educational innovations to understand and support learning and collaboration. 
+Welcome! 
+
+T﻿his site is not being updated anymore, please go to <https://zhu-xinran.com/>
+
+My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. candidate in Learning Sciences and Technologies at University of Pennsylvania. I am a learning **designer** and **researcher** who develop educational innovations to understand and support learning and collaboration. 
 
 Broadly, my interests lie at the intersection of Computer-Supported Collaborative Learning (CSCL) and Learning Analytics (or "Collaborative Learning Analytics"). My research agenda is centered around this question: **How do human collaborate and learn with technologies?**
 
