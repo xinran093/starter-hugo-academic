@@ -34,7 +34,7 @@ highlight_name: true
 ---
 Welcome! 
 
-**T﻿his site is not being updated anymore, please go to [https://zhu-xinran.com/ ](https://zhu-xinran.com/)for my updates! Thank you for visiting my site :-)**
+#### **T﻿his site is not being updated anymore, please go to [https://zhu-xinran.com/ ](https://zhu-xinran.com/)for my updates! Thank you for visiting my site :-)**
 
 My name is Xinran Zhu ( *朱欣然* in Chinese). I'm a Ph.D. candidate in Learning Sciences and Technologies at University of Pennsylvania. I am a learning **designer** and **researcher** who develop educational innovations to understand and support learning and collaboration. 
 
